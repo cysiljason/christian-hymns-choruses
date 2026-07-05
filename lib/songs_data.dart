@@ -4834,6 +4834,19 @@ final List<Song> allSongs = [
       Verse(4, "Kallan Entu Pitiththaalum, – Vilangu Pottuk\nKaavalil Vaith Thatiththaalum,\nVellam Puranndu Thalai Meethil\nAlaimothinaalum – Nenjae"),
     ],
   ),
+  Song(id: 508, number: 50,
+    title: "Deivanbin Vellame",
+    author: "Unknown",
+    language: Language.tamil,
+    parts: [
+      Verse(1, "Deivanpin Vellamae,\nThiruvarul Thottamae\nMeym Manathaananthamae\nSeyya Ninsempaatham Sevikka Iv Vaelai\nAyyaa Nin Ati Panninthaen"),
+      Verse(2, "Sontham Unathallaal Sora Vali Sella\nEnthaay Thunnivaeno Yaan\nPunthikkamalamaam Poomaalai Korththu Nin\nPorpatham Pitiththuk Kolvaen"),
+      Verse(3, "Paavach Settil Palavaelai Palamintith\nThaevae Thavaritinum\nKoovi Viliththun Than Maarpodannaith Thanpaay\nYaavum Poruththa Naathaa"),
+      Verse(4, "Moorkkunam Kopam Lokam Sittinpamum\nMoka Aekkam Yaavum\nThaakkidath Thadumaarith Thayangidum Vaelaiyil\nThookkith Tharkaaththarulvaay"),
+      Verse(5, "Aasai Paasam Pattu Aavalaay Ninthirup\nPoosaip Peedam Pataippaen\nMosa Valithanai Muttu Makattiyen.\nNaesanae Ninaith Tholuvaen"),
+      Verse(6, "Maranamo Jeevano Marumaiyo Poomiyo\nMakimaiyo Varungaalamo\nPira Sirushtiyo Uyarnthatho Thaalnthatho\nPiriththidumo Theyvanpai"),
+    ],
+  ),
   // Malayalam Songs
   Song(
     id: 435,
